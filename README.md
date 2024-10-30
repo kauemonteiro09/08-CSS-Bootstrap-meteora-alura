@@ -8,7 +8,7 @@ Durante o curso **"Bootstrap 5: Crie uma Landing Page Responsiva"**, desenvolvi 
 
 O objetivo foi explorar os componentes e utilitários do Bootstrap 5 para um design rápido e eficiente. Aprendi a configurar e utilizar os recursos do Bootstrap para ajustar o estilo conforme as necessidades do projeto e implementei várias técnicas para melhorar a responsividade e acessibilidade.
 
-[![image](https://github.com/user-attachments/assets/4033fb73-7217-4fcd-8f35-db2c877c3412)]()
+[![image](https://github.com/user-attachments/assets/4033fb73-7217-4fcd-8f35-db2c877c3412)](https://08-css-bootstrap-meteora-alura.vercel.app/)
 
 ## 🛠️ Funcionalidades e Tecnologias Utilizadas
 
@@ -46,4 +46,4 @@ Este projeto foi uma ótima oportunidade para aprender sobre Bootstrap 5 e SASS,
 
 ## 🌐 Deploy
 
-Confira o projeto publicado através deste link: [Landing Page com Bootstrap 5](#)
+Confira o projeto publicado através deste link: [Landing Page com Bootstrap 5](https://08-css-bootstrap-meteora-alura.vercel.app/)
