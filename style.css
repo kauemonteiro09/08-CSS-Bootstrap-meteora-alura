@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+}
+body .facilidade-icones,
+body .facilitade-titulo {
+  color: #daff01;
+}
+body .btn-primary {
+  background: #9353ff;
+  border: none;
+}
+body .btn-primary:hover {
+  background: #682fca;
+}
+body .texto-menor {
+  font-size: 13px;
+}
+body .divs-facilidades {
+  width: 325px;
+}/*# sourceMappingURL=style.css.map */

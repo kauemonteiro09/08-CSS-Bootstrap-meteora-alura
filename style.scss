@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+$verde-claro: #daff01;
+$roxo-claro: #9353ff;
+$roxo-hover: #682fca;
+$cinza-meteora: #cccccc;
+$fonte-principal: 'Inter', sans-serif;
+
+body {
+    font-family: $fonte-principal;
+    .facilidade-icones,
+    .facilitade-titulo {
+        color: $verde-claro;
+    }
+
+    .btn-primary {
+        background: $roxo-claro;
+        border: none;
+    }
+
+    .btn-primary:hover {
+        background: $roxo-hover;
+    }
+    .texto-menor {
+        font-size: 13px;
+    }
+
+    .divs-facilidades {
+        width: 325px;
+    }
+}
